@@ -2,7 +2,7 @@
 
 ## Student Details
 **Full Name:** Sabrina Ghadieh
-\n**CCID:** ghadieh
+**CCID:** ghadieh
 
 ## References and Resources
 https://developer.android.com/reference/android/app/AlertDialog
