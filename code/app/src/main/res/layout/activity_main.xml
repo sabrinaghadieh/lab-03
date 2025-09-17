@@ -15,7 +15,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Cities"
+            android:text="@string/cities"
             android:textAppearance="?attr/textAppearanceHeadline6" />
 
     </com.google.android.material.appbar.MaterialToolbar>
