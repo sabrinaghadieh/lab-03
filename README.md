@@ -1,8 +1,8 @@
 # CMPUT 301 : Lab 3 Participation Exercise
 
 ## Student Details
-Full Name: Sabrina Ghadieh
-CCID: ghadieh
+**Full Name:** Sabrina Ghadieh
+\n**CCID:** ghadieh
 
 ## References and Resources
 https://developer.android.com/reference/android/app/AlertDialog
