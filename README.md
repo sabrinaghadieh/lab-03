@@ -1,8 +1,12 @@
 # CMPUT 301 : Lab 3 Participation Exercise
 
-## References and Resources
+## Student Details
+Full Name: Sabrina Ghadieh
+CCID: ghadieh
 
-List any resources used here, or simply put `N/A` if not applicable.
+## References and Resources
+https://developer.android.com/reference/android/app/AlertDialog
+https://stackoverflow.com/questions/2115758/how-do-i-display-an-alert-dialog-on-android
 
 ## Verbal Collaboration
 
